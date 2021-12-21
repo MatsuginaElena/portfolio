@@ -25,6 +25,6 @@
 
 ### Картинка HTML'ки выше
 
-![Подпись](./images/windows.png)
+![Подпись](../images/windows.png)
 
 
