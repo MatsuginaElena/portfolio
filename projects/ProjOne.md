@@ -19,9 +19,9 @@
 </html>
 ```
 
-* [Ссылка на документацию](./projects/Document.md)
-* [Ссылка на чек лист](./projects/project1.md)
-* [Ссылка на чек-лист на валидацию полей](./projects/MyValidation.md)
+* [Ссылка на документацию](./Document.md)
+* [Ссылка на чек лист](./check-lists.md)
+* [Ссылка на чек-лист на валидацию полей](./MyValidation.md)
 
 ### Картинка HTML'ки выше
 
