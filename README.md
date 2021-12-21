@@ -16,7 +16,7 @@
 
 ## Мои проекты
 
->*[Проект 1](./projects/ProjOne.md)
+>[Проект 1](./projects/ProjOne.md)
 
 
 
