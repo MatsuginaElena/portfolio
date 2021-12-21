@@ -37,6 +37,7 @@
 </html>
 ```
 
+* [Ссылка на документацию](./projects/Document.md)
 * [Ссылка на чек лист](./projects/project1.md)
 * [Ссылка на чек-лист на валидацию полей](./projects/MyValidation.md)
 
