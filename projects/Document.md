@@ -1,4 +1,4 @@
->[Проект 1](./projects/ProjOne.md)
+>[Назад](../projects/ProjOne.md)
 
 ## Документация к
 
