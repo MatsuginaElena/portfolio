@@ -1,26 +1,6 @@
 >[Назад](../projects/ProjOne.md)
 
-## Документация к
-
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Ввод текста и пароля</title>
-</head>
-<body>
-<form action="action_form.php" method="POST">
-    Ваш логин:<br>
-    <input type= "text" name="login" size="15" maxlength="30"> <br>
-    Пароль:<br>
-    <input type="password" name="password" size="15" maxlength="30"><br>
-    <input type="submit">
-</form>
-<p>Атрибут maxlength ограничивает количество символов, которое посетителю разрешается ввести в данное поле.</p>
-</body>
-</html>
-```
+## Документация 
 
 >Поле ввода "Ваш логин:"
 1. Поле расположено в левом верхнем углу под словами "Ваш логин:"
@@ -43,3 +23,24 @@
 3. Надпись на кнопке черного цвета и расположена по центру кнопки.
 4. При нажатии на кнопку "Отправить" цвет с синего меняется на серый.
 5. При нажатии на кнопку "Отправить" происхоит переход на следующую сраницу.
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Ввод текста и пароля</title>
+</head>
+<body>
+<form action="action_form.php" method="POST">
+    Ваш логин:<br>
+    <input type= "text" name="login" size="15" maxlength="30"> <br>
+    Пароль:<br>
+    <input type="password" name="password" size="15" maxlength="30"><br>
+    <input type="submit">
+</form>
+<p>Атрибут maxlength ограничивает количество символов, которое посетителю разрешается ввести в данное поле.</p>
+</body>
+</html>
+```
