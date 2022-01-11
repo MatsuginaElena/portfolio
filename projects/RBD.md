@@ -1,9 +1,10 @@
->[Назад](../projects/README.md)
+>[Назад](../projects/ProjOne.md)
 
 ## Таблицы
 
 >
-<table border=1 style="position:absolute">
+<div style="float: left">
+<table>
    
 <tr><th>id</th><th>begin</th></tr>
     <tr><td>1</td><td>чек-листы</td></tr>
@@ -12,11 +13,10 @@
     <tr><td>4</td><td>запросы БД</td></tr>
     <tr><td>5</td><td>командная строка </td></tr>
 </table>
+  </div>
 
-
-
-
-<table border=1 style="position:absolute; left:50px" >
+<div style="float: right">
+<table>
 
 <tr><th>id</th><th>test-analysis</th></tr>
     <tr><td>1</td><td>цикл задачи</td></tr>
@@ -28,5 +28,6 @@
     <tr><td>7</td><td>функциональное тестирование</td></tr>
     <tr><td>8</td><td>нефункциональное тестирование</td></tr>
     </table>
+</div>
 
 
