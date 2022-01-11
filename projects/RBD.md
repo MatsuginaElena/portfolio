@@ -16,7 +16,7 @@
 
 
 
-<table border=1 style="position:absolute; left:250px" >
+<table border=1 style="position:absolute; left:50px" >
 
 <tr><th>id</th><th>test-analysis</th></tr>
     <tr><td>1</td><td>цикл задачи</td></tr>
