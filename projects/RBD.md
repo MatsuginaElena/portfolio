@@ -36,8 +36,11 @@
 
 Вывести все шаги для изучения тест-анализа. Поля в результирующей таблице: learning
 >> SELECT test-analysis as learning FROM AnalysT;
-> 
+ 
  ## Задачка 2
+
+Вывести названия всех шагов изучения QA (таблица Beginning).
+>> SELECT begin FROM Beginning;
 
 
 
