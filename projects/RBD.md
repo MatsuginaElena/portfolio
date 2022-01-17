@@ -1,4 +1,4 @@
->[Назад](..../projects/ProjOne.md)
+[Назад](../projects/ProjOne.md)
 
 ## Таблицы
 

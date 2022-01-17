@@ -1,4 +1,4 @@
->[Назад](..../projects/RBD.md)
+>[Назад](../projects/RBD.md)
 
 
 ### Задачка 1
