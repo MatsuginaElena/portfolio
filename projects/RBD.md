@@ -45,7 +45,7 @@
 
 <hr/> 
 
->[Задачи к таблицам](..../projects/Tasks.md)
+>[Задачи к таблицам](../projects/Tasks.md)
 
 
 
