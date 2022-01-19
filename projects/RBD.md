@@ -51,6 +51,9 @@ ____
 | 13  | Функциональное тестирование   | 1         |
 | 14  | Нефункциональное тестирование | 4         |
 
+>CONSTRAINT Course_id FOREIGN KEY (course_id) REFERENCES Courses(id)
+
+
 ____
 <table>
 <tr><td colspan="2" align="center">StudentsCourses</td></tr>
@@ -71,11 +74,11 @@ ____
 
 <hr/> 
 
->>Students.id = StudentsCourses.student_id
+>CONSTRAINT Course_id FOREIGN KEY (course_id) REFERENCES Courses(id)
 > 
->>Courses.id = StudentsCourses.course_id
->
->>CourseContent.course_id = Courses.id
+>CONSTRAINT Student_id FOREIGN KEY (student_id) REFERENCES Students(id)
+
+
 
 
 >[Задачи к таблицам](../projects/Tasks.md)
