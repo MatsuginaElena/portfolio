@@ -1,6 +1,8 @@
 [Назад](../projects/ProjOne.md)
 
 ## Таблицы
+## <b> [Задачи к таблицам](../projects/Tasks.md)</b>
+
 
 <table>
 <tr><td colspan="2" align="center">Students</td></tr>
@@ -82,7 +84,6 @@ ____
 
 
 
->> ## <b> [Задачи к таблицам](../projects/Tasks.md)</b>
 
 
 
