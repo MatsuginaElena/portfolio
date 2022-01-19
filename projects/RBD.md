@@ -2,11 +2,16 @@
 
 ## Таблицы
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 <table>
 <tr><td valign="top">
 <table>
-<tr><td colspan="2" align="center">Beginning</td></tr>
-<tr><td>id</td><td>begin</td></tr>
+<tr><td colspan="2" align="center">Courses</td></tr>
+<tr><td>id</td><td>title</td></tr>
     <tr><td>1</td><td>чек-листы</td></tr>
     <tr><td>2</td><td>баг-репорты</td></tr>
     <tr><td>3</td><td>тест-кейсы</td></tr>
@@ -16,8 +21,8 @@
 </table>
 </td> <td>
 <table>
-<tr><td colspan="2" align="center">AnalysT</td></tr>
-<tr><td>id</td><td>test-analysis</td></tr>
+<tr><td colspan="2" align="center">CourseContent</td></tr>
+<tr><td>id</td><td>test-analysis</td><td>course_id</td></tr>
     <tr><td>1</td><td>цикл задачи</td></tr>
     <tr><td>2</td><td>анализ требований</td></tr>
     <tr><td>3</td><td>декомпозиция требований</td></tr>
