@@ -51,9 +51,32 @@ ____
 | 13  | Функциональное тестирование   | 1         |
 | 14  | Нефункциональное тестирование | 4         |
 
+____
+<table>
+<tr><td colspan="2" align="center">StudentsCourses</td></tr>
+</table>
 
+| students_id | courses_id | 
+|-------------|:-----------|
+| 1           | 1          | 
+| 1           | 5          | 
+| 2           | 3          | 
+| 2           | 4          | 
+| 3           | 6          | 
+| 4           | 6          | 
+| 4           | 1          | 
+| 5           | 6          | 
+| 5           | 2          | 
+| 6           | 1          | 
 
 <hr/> 
+
+>>Students.id = StudentsCourses.students_id
+> 
+>>Courses.id = StudentsCourses.courses_id
+>
+>>CourseContent.course_id = Courses.id
+
 
 >[Задачи к таблицам](../projects/Tasks.md)
 
