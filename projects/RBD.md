@@ -56,24 +56,24 @@ ____
 <tr><td colspan="2" align="center">StudentsCourses</td></tr>
 </table>
 
-| students_id | courses_id | 
-|-------------|:-----------|
-| 1           | 1          | 
-| 1           | 5          | 
-| 2           | 3          | 
-| 2           | 4          | 
-| 3           | 6          | 
-| 4           | 6          | 
-| 4           | 1          | 
-| 5           | 6          | 
-| 5           | 2          | 
-| 6           | 1          | 
+| student_id | course_id | 
+|------------|:----------|
+| 1          | 1         | 
+| 1          | 5         | 
+| 2          | 3         | 
+| 2          | 4         | 
+| 3          | 6         | 
+| 4          | 6         | 
+| 4          | 1         | 
+| 5          | 6         | 
+| 5          | 2         | 
+| 6          | 1         | 
 
 <hr/> 
 
->>Students.id = StudentsCourses.students_id
+>>Students.id = StudentsCourses.student_id
 > 
->>Courses.id = StudentsCourses.courses_id
+>>Courses.id = StudentsCourses.course_id
 >
 >>CourseContent.course_id = Courses.id
 
