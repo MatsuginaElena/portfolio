@@ -34,7 +34,7 @@ ____
 <tr><td colspan="2" align="center">CourseContent</td></tr>
 </table>
 
-| id  | title                         | course_id |
+| id  | lesson                        | course_id |
 |-----|:------------------------------|:----------|
 | 1   | Чек-листы                     | 1         |
 | 2   | Баг-репорты                   | 1         |
@@ -81,7 +81,8 @@ ____
 
 
 
->[Задачи к таблицам](../projects/Tasks.md)
+
+>>[Задачи к таблицам](../projects/Tasks.md)
 
 
 
