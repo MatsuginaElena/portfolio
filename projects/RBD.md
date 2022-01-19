@@ -2,51 +2,56 @@
 
 ## Таблицы
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
 <table>
-<tr><td valign="top">
+<tr><td colspan="2" align="center">Students</td></tr>
+</table>
+
+| id  | firstname | lastname      | wherefrom |
+|-----|-----------|---------------|-----------|
+| 1   | Рюрик     | Рюрикович     | Область   |
+| 2   | Олег      | Вещий         | Деревушка |
+| 3   | Игорь     | Рюрикович     | Иваново   | 
+| 4   | Ольга     | Игоревна      | Городок   |
+| 5   | Святослав | Ольгович      | Новгород  | 
+| 6   | Ярополк   | Святославович | Москва    | 
+
+____
 <table>
 <tr><td colspan="2" align="center">Courses</td></tr>
-<tr><td>id</td><td>title</td></tr>
-    <tr><td>1</td><td>чек-листы</td></tr>
-    <tr><td>2</td><td>баг-репорты</td></tr>
-    <tr><td>3</td><td>тест-кейсы</td></tr>
-    <tr><td>4</td><td>запросы БД</td></tr>
-    <tr><td>5</td><td>командная строка </td></tr>
-    <tr><td>5</td><td>DevTools</td></tr>
 </table>
-</td> <td>
+
+| id  | title             | 
+|-----|:------------------|
+| 1   | QA                | 
+| 2   | DevOps            | 
+| 3   | DatabaseEngineer  | 
+| 4   | Developer         | 
+| 5   | QC                | 
+| 6   | SystemAdmin       | 
+
+____
 <table>
 <tr><td colspan="2" align="center">CourseContent</td></tr>
-<tr><td>id</td><td>test-analysis</td><td>course_id</td></tr>
-    <tr><td>1</td><td>цикл задачи</td></tr>
-    <tr><td>2</td><td>анализ требований</td></tr>
-    <tr><td>3</td><td>декомпозиция требований</td></tr>
-    <tr><td>4</td><td>диаграмма связей</td></tr>
-    <tr><td>5</td><td>блок-схема</td></tr>
-    <tr><td>6</td><td>серые зоны и поиск требований</td></tr>
-    <tr><td>7</td><td>функциональное тестирование</td></tr>
-    <tr><td>8</td><td>нефункциональное тестирование</td></tr> 
 </table>
-</td> <td>
-<table>
-<tr><td colspan="4" align="center">Students</td></tr>
-<tr><td>id</td><td>FirstName</td><td>LastName</td><td>WhereFrom</td></tr>
-    <tr><td>1</td><td>Иван</td><td>Иванов</td><td>Энгельс</td></tr>
-    <tr><td>2</td><td>Петр</td><td>Петров</td><td>Воронеж</td></tr>
-    <tr><td>3</td><td>Василий</td><td>Васильев</td><td>Самара</td></tr>
-    <tr><td>4</td><td>Иван</td><td>Петров</td><td>Санкт-Петербург</td></tr>
-    <tr><td>5</td><td>Петр</td><td>Иванов</td><td>Москва</td></tr>
-    <tr><td>6</td><td>Василий</td><td>Петров</td><td>Мурманск</td></tr>
-    <tr><td>7</td><td>Петр</td><td>Васильев</td><td>Кукушки</td></tr>
-    <tr><td>8</td><td>Иван</td><td>Васильев</td><td>Заполярный</td></tr> 
-</table>
-</td></tr>
-</table>
+
+| id  | title                         | course_id |
+|-----|:------------------------------|:----------|
+| 1   | Чек-листы                     | 1         |
+| 2   | Баг-репорты                   | 1         |
+| 3   | Тест-кейсы                    | 1         |
+| 4   | Запросы БД                    | 3         |
+| 5   | Командная строка              | 6         |
+| 6   | DevTools                      | 6         |
+| 7   | Цикл-ПО                       | 4         |
+| 8   | Анализ требований             | 4         |
+| 9   | Декомпозиция требований       | 2         |
+| 10  | Диаграмма связей              | 2         |
+| 11  | Блок схема                    | 5         |
+| 12  | Серые зоны                    | 5         |
+| 13  | Функциональное тестирование   | 1         |
+| 14  | Нефункциональное тестирование | 4         |
+
+
 
 <hr/> 
 
