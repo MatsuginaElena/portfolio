@@ -38,7 +38,7 @@ ____
 
 ____
 <table>
-<tr><td colspan="2" align="center">CourseContent</td></tr>
+<tr><td colspan="2" align="center">Course_Content</td></tr>
 </table>
 
 | id  | lesson                        | course_id |
@@ -63,7 +63,7 @@ ____
 
 ____
 <table>
-<tr><td colspan="2" align="center">StudentsCourses</td></tr>
+<tr><td colspan="2" align="center">Course_Student</td></tr>
 </table>
 
 | student_id | course_id | 
