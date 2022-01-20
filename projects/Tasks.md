@@ -17,6 +17,5 @@
 
 Найти все уроки, которые относятся к курсу QA. Результирующее поле  result.
 
->SELECT cc.lesson AS result FROM CourseContent cc JOIN Courses c ON c.id = cc.course_id WHERE c.title = 'QA';
-
+>SELECT cc.lesson AS result FROM course_content AS cc JOIN courses c ON c.id = cc.course_id WHERE c.title = 'QA';
 

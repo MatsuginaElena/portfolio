@@ -10,7 +10,7 @@
 
 
 <table>
-<tr><td colspan="2" align="center">Students</td></tr>
+<tr><td colspan="2" align="center">students</td></tr>
 </table>
 
 | id  | firstname | lastname      | wherefrom |
@@ -24,7 +24,7 @@
 
 ____
 <table>
-<tr><td colspan="2" align="center">Courses</td></tr>
+<tr><td colspan="2" align="center">courses</td></tr>
 </table>
 
 | id  | title             | 
@@ -38,7 +38,7 @@ ____
 
 ____
 <table>
-<tr><td colspan="2" align="center">Course_Content</td></tr>
+<tr><td colspan="2" align="center">course_content</td></tr>
 </table>
 
 | id  | lesson                        | course_id |
@@ -63,7 +63,7 @@ ____
 
 ____
 <table>
-<tr><td colspan="2" align="center">Course_Student</td></tr>
+<tr><td colspan="2" align="center">course_student</td></tr>
 </table>
 
 | student_id | course_id | 
