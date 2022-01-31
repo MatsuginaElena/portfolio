@@ -27,3 +27,5 @@
 JOIN course_student cs on s.id = cs.student_id
 JOIN course_content cc on cs.course_id = cc.course_id
 WHERE s.id = 4 AND cs.course_id = 6;
+> 
+> ![Request](../images/BD4.png "HTML")
