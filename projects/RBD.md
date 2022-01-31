@@ -2,13 +2,16 @@
 
 <table>
 <tr><td colspan="2" align="center">Таблица таблиц :) </td></tr>
+
+  
 </table>
 
-|students          | [Задачи к таблицам](../projects/Tasks.md) |
-|:------------------------------------------:|-------------------------------------------|
-|                 course_student                 |  |
-|                 courses                  |  |
-|                 course_content                 |  |
+|  [Задачи к таблицам](../projects/Tasks.md)                  |
+|-------------------|
+| students          |
+|                 course_student                 |  
+|                 courses                  |  
+|                 course_content                 |  
 
 
  
