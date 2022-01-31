@@ -1,15 +1,7 @@
 # Мое портфолио
 
-### Самообразование (сертификаты)
+### Самообразование [сертификаты](./projects/Certificates.md)
 
->[SQL](./images/SQL.jpeg)
->
->[HTML](./images/HTML.png)
->
->[Яндекс-Практикум1](./images/YA2.png)
->[Яндекс-Практикум2](./images/YA1.png)
-
-<img src="YA2.png" width="50" height="50">
 
 ## Обо мне
 
