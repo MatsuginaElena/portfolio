@@ -33,5 +33,7 @@
 ## Самообразование 
 
 >[SQL](./images/SQL.jpeg)
->[HTML](./images/HTML.jpeg)
+>[HTML](./images/HTML.png)
+>[Яндекс-Практикум](./images/YA2.png)
+>[Яндекс-Практикум](./images/YA1.png) 
 
