@@ -6,8 +6,8 @@
 >
 >[HTML](./images/HTML.png)
 >
->[Яндекс-Практикум1](./images/YA2.png width=48 )
->[Яндекс-Практикум2](./images/YA1.png width=48)
+>[Яндекс-Практикум1](./images/YA2.png)
+>[Яндекс-Практикум2](./images/YA1.png)
 
 ## Обо мне
 
