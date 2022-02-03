@@ -1,10 +1,19 @@
 ### Самообразование (сертификаты)
 
-<a href = "https://github.com/MatsuginaElena/portfolio/blob/master/images/YA1.png" width="50" height="50">[Yandex.Practicum] </a>
-, [Sololearn: SQL AND HTML], [STEPIK% SQL]
+[Yandex.Practicum](#yandexpraktikum)
 
-![Yandex](../images/YA1.png "Yandex1")
+[Sololearn: SQL AND HTML](#sololearn-sql-and-html)
+
+[STEPIK: SQL](#stepik-sql)
+
+### Yandex.Praktikum
+
+<a name="YA1"></a>![Yandex](../images/YA1.png "Yandex1")
 ![Yandex](../images/YA2.png "Yandex2")
+
+### Sololearn: SQL AND HTML
 ![SQL](../images/SQL.jpeg "SQL")
+<a name="HTML"></a>![HTML](../images/HTML.png "HTML")
+
+### STEPIK: SQL
 ![SQL](../images/SQLSTEP.png "SQL")
-![HTML](../images/HTML.png "HTML")
