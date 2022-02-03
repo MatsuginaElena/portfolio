@@ -14,10 +14,10 @@
 ![Yandex](../images/YA2.png "Yandex2")
 
 ### Sololearn: SQL 
-![SQL](../images/SQL.jpeg "SQL")
+![SQL](../images/SQL.jpeg "SQL")                           [Оглавление](../projects/Certificates.md)
 
 ### Sololearn: HTML
-![HTML](../images/HTML.png "HTML")
+![SQL](../images/HTML.png "SQL")                           [Оглавление](../projects/Certificates.md)
 
 ### STEPIK: SQL
-![SQL](../images/SQLSTEP.png "SQL")
+![SQL](../images/SQLSTEP.png "SQL")                        [Оглавление](../projects/Certificates.md)
