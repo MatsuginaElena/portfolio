@@ -8,6 +8,8 @@
 
 [STEPIK: SQL](#stepik-sql)
 
+[STEPIK: JS](#stepik-js)
+
 ### Yandex.Praktikum
 
 ![Yandex](../images/YA1.png "Yandex1")
