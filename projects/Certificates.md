@@ -20,4 +20,9 @@
 ![SQL](../images/HTML.png "SQL")                           [Оглавление](../projects/Certificates.md)
 
 ### STEPIK: SQL
-![SQL](../images/SQLSTEP.png "SQL")                        [Оглавление](../projects/Certificates.md)
+![SQL](../images/SQLSTEP.png "SQL")  
+
+### STEPIK: JS
+![SQL](../images/JS.png "SQL")
+
+[Оглавление](../projects/Certificates.md)
