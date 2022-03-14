@@ -10,7 +10,7 @@
 
 [STEPIK: JS](#stepik-js)
 
-[STEPIK: JS](#stepik-css)
+[STEPIK: CSS](#stepik-css)
 
 ### Yandex.Praktikum
 
