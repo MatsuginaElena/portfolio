@@ -10,6 +10,8 @@
 
 [STEPIK: JS](#stepik-js)
 
+[STEPIK: JS](#stepik-css)
+
 ### Yandex.Praktikum
 
 ![Yandex](../images/YA1.png "Yandex1")
@@ -26,5 +28,8 @@
 
 ### STEPIK: JS
 ![SQL](../images/JS.png "SQL")
+
+### STEPIK: CSS
+![SQL](../images/CSS.png "SQL")
 
 [Оглавление](../projects/Certificates.md)
